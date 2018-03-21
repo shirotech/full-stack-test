@@ -9,10 +9,11 @@ We are looking for someone leaning more towards FrontEnd who have mastery of fle
 ## Technologies
 
 - Express.js 4.16.x
-- React or HyperApp (preferred)
+- AngularJS or React or HyperApp (preferred)
 - Node.js v8.x (Use [.nvmrc](https://github.com/creationix/nvm) to manage)
-- ES6
+- JavaScript ES6
 - Webpack or Rollup (preferred)
+- Babel or Buble (ES6 => ES5)
 
 ## Libraries
 
@@ -37,3 +38,4 @@ We are looking for someone leaning more towards FrontEnd who have mastery of fle
 - Caching and optimisations will be a plus
 - Making use of all the technologies at your disposal
 - It doesn't have to look pretty, avoid css frameworks, avoid floats and use flexbox at will
+- Structure and coding style will have more weight
